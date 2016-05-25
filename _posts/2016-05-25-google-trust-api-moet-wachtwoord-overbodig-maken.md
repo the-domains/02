@@ -12,8 +12,8 @@ inLanguage: nl
 app_links: []
 isBasedOnUrl: 'http://www.onemorething.nl/2016/05/google-wil-wachtwoorden-overbodig-maken-met-een-trust-api/'
 title: Google Trust API moet wachtwoord overbodig maken
-datePublished: '2016-05-25T16:20:19.136Z'
-dateModified: '2016-05-25T16:19:32.915Z'
+datePublished: '2016-05-25T16:21:30.045Z'
+dateModified: '2016-05-25T16:21:13.155Z'
 starred: false
 sourcePath: _posts/2016-05-25-google-trust-api-moet-wachtwoord-overbodig-maken.md
 inFeed: true
