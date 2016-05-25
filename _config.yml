@@ -1,0 +1,14 @@
+layout_spectrum: 0.9468704177998006
+typography_spectrum: 0.26253001810982823
+color:
+  brandStrength: 0.6307181436568499
+  lightness: 0.7156027515884489
+  saturation: 0.28701415681280196
+  rhythmicContrast: 0.8530999452341348
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: '.02'
