@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[.02]]></title>
+        <description><![CDATA[.02]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 May 2016 16:20:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Trust API moet wachtwoord overbodig maken]]></title>
+            <description><![CDATA[<article><h1>Google Trust API moet wachtwoord overbodig maken</h1><p>Met vinger­afdruk­scanners en password managers als iCloud Keychain en 1Password is het steeds minder vaak nodig om je wachtwoord in te typen. Google wil echter nog een stapje verder en het wachtwoord vervangen door een zogenaamde Trust API. Het idee is dat een smartphone constant de activiteit meet om in te schatten wie de gebruiker is.</p><img src="http://cdn.onemorething.nl/uploads//2016/05/google-trust-score.png"></article>]]></description>
+            <link>http://www.onemorething.nl/2016/05/google-wil-wachtwoorden-overbodig-maken-met-een-trust-api/</link>
+            <guid isPermaLink="false">79e6b2f8-7d46-4f83-88b1-1db9c7728d49</guid>
+            <pubDate>Wed, 25 May 2016 16:20:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
