@@ -2,13 +2,27 @@
     <channel>
         <title><![CDATA[.02]]></title>
         <description><![CDATA[.02]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/02/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 16:20:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 16:21:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/02/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Google Trust API moet wachtwoord overbodig maken]]></title>
-            <description><![CDATA[<article><h1>Google Trust API moet wachtwoord overbodig maken</h1><p>Met vinger­afdruk­scanners en password managers als iCloud Keychain en 1Password is het steeds minder vaak nodig om je wachtwoord in te typen. Google wil echter nog een stapje verder en het wachtwoord vervangen door een zogenaamde Trust API. Het idee is dat een smartphone constant de activiteit meet om in te schatten wie de gebruiker is.</p><img src="http://cdn.onemorething.nl/uploads//2016/05/google-trust-score.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Google Trust API moet wachtwoord overbodig maken</h1><p>Met vinger­afdruk­scanners en password managers als iCloud Keychain en 1Password is het steeds minder vaak nodig om je wachtwoord in te typen. Google wil echter nog een stapje verder en het wachtwoord vervangen door een zogenaamde Trust API. Het idee is dat een smartphone constant de activiteit meet om in te schatten wie de gebruiker is.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366bcbeacd6bed9b109c298d5289ac6d7d48b228.png"></article>]]></description>
+            <link>http://www.onemorething.nl/2016/05/google-wil-wachtwoorden-overbodig-maken-met-een-trust-api/</link>
+            <guid isPermaLink="false">a40fe7fb-3d40-4cbe-ad44-938bc220d2de</guid>
+            <pubDate>Wed, 25 May 2016 16:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: Apple is saying 'me too' with a Siri-powered connected home speaker]]></title>
+            <description><![CDATA[<article><h1>Report: Apple is saying 'me too' with a Siri-powered connected home speaker</h1><p>Seems like everyone (except Microsoft, but more on that in a minute) has a connected home hub you can talk to. If a new report from The Information is correct, you can count Apple in. Joining Google Home and Amazon's Echo may be a Siri-powered hub, according to the report.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/03/AppleSiri1TNW.jpg"></article>]]></description>
+            <link>http://thenextweb.com/apple/2016/05/25/report-apple-saying-connected-home-speaker/</link>
+            <guid isPermaLink="false">695b45c0-bef1-40eb-9f1d-ba2f4fdc9c6c</guid>
+            <pubDate>Wed, 25 May 2016 16:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Trust API moet wachtwoord overbodig maken]]></title>
+            <description><![CDATA[<article><h1>Google Trust API moet wachtwoord overbodig maken</h1><p>Met vinger­afdruk­scanners en password managers als iCloud Keychain en 1Password is het steeds minder vaak nodig om je wachtwoord in te typen. Google wil echter nog een stapje verder en het wachtwoord vervangen door een zogenaamde Trust API. Het idee is dat een smartphone constant de activiteit meet om in te schatten wie de gebruiker is.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366bcbeacd6bed9b109c298d5289ac6d7d48b228.png"></article>]]></description>
             <link>http://www.onemorething.nl/2016/05/google-wil-wachtwoorden-overbodig-maken-met-een-trust-api/</link>
             <guid isPermaLink="false">79e6b2f8-7d46-4f83-88b1-1db9c7728d49</guid>
             <pubDate>Wed, 25 May 2016 16:20:19 GMT</pubDate>
